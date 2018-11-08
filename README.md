@@ -8,9 +8,11 @@ tensorflow-gpu
 math  
 numpy  
 
-### 运行方法：
+### 运行方法：  
 训练：  
-> python train_captcha.py
+> python train_captcha.py  
+
 预测：  
 > python predict_captcha.py 目标图片地址
+
 
